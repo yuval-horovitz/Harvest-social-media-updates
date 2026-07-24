@@ -1,0 +1,232 @@
+{
+  "generated_at": "2026-07-24T19:17:00.658434+00:00",
+  "dead_after_days": 60,
+  "verified_count": 25,
+  "sources": [
+    {
+      "name": "Meta Newsroom",
+      "url": "https://about.fb.com/news/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T17:00:55+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Google Blog",
+      "url": "https://blog.google/rss/",
+      "extra": false,
+      "status": "active",
+      "item_count": 20,
+      "last_item_date": "2026-07-24T14:00:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Google Ads Blog",
+      "url": "https://blog.google/products/marketingplatform/rss/",
+      "extra": false,
+      "status": "active",
+      "item_count": 20,
+      "last_item_date": "2026-06-11T12:00:00+00:00",
+      "days_since_update": 43
+    },
+    {
+      "name": "YouTube Blog",
+      "url": "https://blog.youtube/rss/",
+      "extra": false,
+      "status": "active",
+      "item_count": 20,
+      "last_item_date": "2026-07-24T16:10:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Social Media Examiner",
+      "url": "https://www.socialmediaexaminer.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 25,
+      "last_item_date": "2026-07-23T10:00:00+00:00",
+      "days_since_update": 1
+    },
+    {
+      "name": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 20,
+      "last_item_date": "2026-07-24T19:00:50+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Search Engine Land",
+      "url": "https://searchengineland.com/feed",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T15:10:39+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Marketing Dive",
+      "url": "https://www.marketingdive.com/feeds/news/",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T17:00:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Digiday",
+      "url": "https://digiday.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 15,
+      "last_item_date": "2026-07-24T04:01:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Adweek",
+      "url": "https://www.adweek.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T14:24:16+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Buffer",
+      "url": "https://buffer.com/resources/rss/",
+      "extra": false,
+      "status": "active",
+      "item_count": 15,
+      "last_item_date": "2026-07-24T10:10:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Later",
+      "url": "https://later.com/rss.xml",
+      "extra": false,
+      "status": "active",
+      "item_count": 627,
+      "last_item_date": "2026-07-22T19:05:35+00:00",
+      "days_since_update": 2
+    },
+    {
+      "name": "Sprout Social",
+      "url": "https://sproutsocial.com/insights/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-23T16:08:53+00:00",
+      "days_since_update": 1
+    },
+    {
+      "name": "Hootsuite",
+      "url": "https://blog.hootsuite.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T17:44:08+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "HubSpot Marketing",
+      "url": "https://blog.hubspot.com/marketing/rss.xml",
+      "extra": false,
+      "status": "active",
+      "item_count": 50,
+      "last_item_date": "2026-07-24T11:00:03+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T19:14:23+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 20,
+      "last_item_date": "2026-07-24T18:07:32+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Platformer",
+      "url": "https://www.platformer.news/feed",
+      "extra": false,
+      "status": "active",
+      "item_count": 15,
+      "last_item_date": "2026-07-24T00:08:20+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Geektime",
+      "url": "https://www.geektime.co.il/feed/",
+      "extra": false,
+      "status": "active",
+      "item_count": 30,
+      "last_item_date": "2026-07-24T14:17:20+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "Globes",
+      "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=942",
+      "extra": false,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-23T17:05:00+00:00",
+      "days_since_update": 1
+    },
+    {
+      "name": "TheMarker",
+      "url": "https://www.themarker.com/cmlink/1.145",
+      "extra": false,
+      "status": "active",
+      "item_count": 100,
+      "last_item_date": "2026-07-24T19:11:00+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "AdExchanger",
+      "url": "https://www.adexchanger.com/feed/",
+      "extra": true,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T04:45:23+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "MarTech",
+      "url": "https://martech.org/feed/",
+      "extra": true,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-24T13:35:03+00:00",
+      "days_since_update": 0
+    },
+    {
+      "name": "PPC Hero",
+      "url": "https://www.ppchero.com/feed/",
+      "extra": true,
+      "status": "active",
+      "item_count": 10,
+      "last_item_date": "2026-07-22T07:41:40+00:00",
+      "days_since_update": 2
+    },
+    {
+      "name": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/index.xml",
+      "extra": true,
+      "status": "active",
+      "item_count": 15,
+      "last_item_date": "2026-07-24T14:00:00+00:00",
+      "days_since_update": 0
+    }
+  ]
+}
