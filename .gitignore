@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+harvest.db
+collect.log
